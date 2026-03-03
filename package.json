@@ -1,0 +1,32 @@
+{
+  "name": "git-conflict-resolver",
+  "version": "1.0.0",
+  "description": "Find, display, and help resolve Git merge conflicts interactively",
+  "type": "module",
+  "bin": {
+    "git-conflict-resolver": "./index.js",
+    "gcr": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "git",
+    "merge",
+    "conflicts",
+    "developer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/git-conflict-resolver"
+  },
+  "homepage": "https://github.com/NickCirv/git-conflict-resolver#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/git-conflict-resolver/issues"
+  }
+}
