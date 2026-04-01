@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # git-conflict-resolver
 
 Find, display, and resolve Git merge conflicts interactively — zero dependencies, pure Node.js.
